@@ -17,7 +17,7 @@ what is being done and implemented:<br>
 
 | Component Type | Specific Model | Role in Project |
 |---|---|---|
-| **Hardware** |
+| <b>**Hardware**</b> |
 | Main Server | Lenovo ThinkCentre M71e SFF PC (Intel Core i5-2400, 8 GB RAM) | Serves as the central router and firewall; hosts all primary network services (DHCP, DNS, VPN). |
 | Network Interface Card (NIC) | TP-Link TX201 2.5 Gigabit PCIe Network Adapter | Provides high-speed 2.5 Gigabit Ethernet connectivity for the WAN/LAN connection on the server. |
     
