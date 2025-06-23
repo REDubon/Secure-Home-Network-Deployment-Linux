@@ -34,6 +34,7 @@ This section outlines the key hardware and software components leveraged in the 
 | Virtual Private Network (VPN)| WireGuard                                                        | Set up on the server to provide secure, encrypted remote access to the home network for administration and secure Browse.                                                   |
 | Remote Management          | SSH (Secure Shell)                                               | Utilized for secure command-line remote administration and management of the AlmaLinux server.    |
 
+
 ## Project Implementation & Objective Achievement
 
     
