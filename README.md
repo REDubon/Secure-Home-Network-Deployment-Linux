@@ -32,7 +32,9 @@ This section outlines the key hardware and software components leveraged in the 
 | DHCP Server                | `dnsmasq` or `isc-dhcp-server`                                   | Configured on the Linux server to manage and assign IP addresses to all devices within the network.                                                                         |
 | DNS / Ad-blocking          | AdGuard Home                                                     | Deployed as the network's primary DNS resolver, enabling network-wide ad-blocking, tracker filtering, and enhanced privacy.                                                 |
 | Virtual Private Network (VPN)| WireGuard                                                        | Set up on the server to provide secure, encrypted remote access to the home network for administration and secure Browse.                                                   |
-| Remote Management          | SSH (Secure Shell)                                               | Utilized for secure command-line remote administration and management of the AlmaLinux server.                                                                              |
+| Remote Management          | SSH (Secure Shell)                                               | Utilized for secure command-line remote administration and management of the AlmaLinux server.    |
+
+## Project Implementation & Objective Achievement
 
     
     
