@@ -52,6 +52,18 @@ The TP-Link TX201 2.5 Gigabit PCIe Network Adapter was physically installed into
 
 The AlmaLinux OS installation media was prepared by burning the official ISO to a USB drive using balenaEtcher. This bootable USB drive will be used to install the operating system on the ThinkCentre.
 
+
+#### **BIOS/UEFI Configuration and System Preparation**
+
+    This section details the critical BIOS/UEFI settings configured on the Lenovo ThinkCentre M71e prior to the OS installation, ensuring optimal performance, boot behavior, and server reliability.
+
+    Key Configurations Documented:
+
+   -   Remote Wake-up: Configured "Wake from PCI Device" and "Wake on LAN" settings to Enabled to allow for remote power-on via the network
+   -   Power Failure Recovery: Set the "AC Power Loss" or "Power On After AC Loss" option to "Power Off" / "Stay Off" to prevent the system from automatically powering on after a power outage, ensuring a controlled restart.
+   -   Keyboardless Operation: Enabled the "Keyboardless Operation" setting to allow the server to boot successfully without a keyboard attached. This is essential for a headless server setup.
+   -   Virtualization Technology (Intel VT-x): Ensured Intel VT-x was enabled for future flexibility with virtualization technologies.
+
 #### **AlmaLinux Operating System Installation**
 
 
