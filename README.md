@@ -2,8 +2,7 @@
 
 <h2>Project Overview</h2>
 This project involves setting up and configuring a robust home network, moving from a standard consumer-grade router to a custom-built, server-centric system.
-
-
+<br>
 what is being done and implemented:
 
 
