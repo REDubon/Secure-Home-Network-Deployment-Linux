@@ -1,7 +1,7 @@
 <h1>Secure Home Network Deployment - Linux</h1>
 
 <h2>Project Overview</h2>
-This project involves setting up and configuring a robust home network, moving from a standard consumer-grade router to a custom-built, server-centric system.
+This project involves setting up and configuring a robust home network, moving from a standard consumer-grade router to a custom-built, server-centric system.<br>
 <br>
 what is being done and implemented:
 
