@@ -55,9 +55,9 @@ The AlmaLinux OS installation media was prepared by burning the official ISO to 
 
 #### **BIOS/UEFI Configuration and System Preparation**
 
-    This section details the critical BIOS/UEFI settings configured on the Lenovo ThinkCentre M71e prior to the OS installation, ensuring optimal performance, boot behavior, and server reliability.
+This section details the critical BIOS/UEFI settings configured on the Lenovo ThinkCentre M71e prior to the OS installation, ensuring optimal performance, boot behavior, and server reliability.
 
-    Key Configurations Documented
+**Key Configurations Documented:**
 
    -   Remote Wake-up: Configured "Wake from PCI Device" and "Wake on LAN" settings to Enabled to allow for remote power-on via the network
    -   Power Failure Recovery: Enabled the "Power On After AC Loss" option so the system power on automatically after a power outage in order to restore network connectivity.
