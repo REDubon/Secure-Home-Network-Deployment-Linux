@@ -46,7 +46,7 @@ This section outlines the key hardware and software components leveraged in the 
 
 The TP-Link TX201 2.5 Gigabit PCIe Network Adapter was physically installed into an available PCIe slot on the Lenovo ThinkCentre M71e. This critical hardware upgrade enables multi-gigabit connectivity, essential for both the WAN (Internet) interface and future high-speed internal network segments.
 
-![Installed TP-Link TX201 Network Card](assets/TP-Link_NIC_Install.jpeg)
+<img src="assets/TP-Link_NIC_Install.jpeg" alt="Installed TP-Link TX201 Network Card" width="50%">
 
 #### **Preparation of OS Installation Media**
 
