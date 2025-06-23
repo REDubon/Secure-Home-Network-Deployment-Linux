@@ -11,7 +11,8 @@ what is being done and implemented:<br>
   - A Virtual Private Network (VPN) server (WireGuard) is being configured on the Linux server for secure remote access.
   - The network will be logically divided into separate security zones (e.g., a main trusted network and an isolated network for guests and smart home devices) to enhance security and prevent unauthorized access between different types of devices.
   - Network speed is being upgraded with 2.5 Gigabit Ethernet for faster internet and internal data transfers.
-  - All network components, configurations, and security measures are being thoroughly documented.
+  - All network components, configurations, and security measures are being thoroughly documented.<br>
+  <br>
 
   <h2>💻 Technologies Used 🌐</h2>
 
