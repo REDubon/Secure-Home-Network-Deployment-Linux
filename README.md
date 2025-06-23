@@ -23,6 +23,13 @@ what is being done and implemented:<br>
 | Wireless Access Point | ASUS RT-AC68U Wireless Router | Reconfigured to operate in Access Point (AP) mode, providing Wi-Fi connectivity (2.4 GHz & 5 GHz) for all wireless clients. |
 | Internet Modem | Technicolor TC4350 DOCSIS 3.0 Cable Modem | Interfaces with the Internet Service Provider (ISP) to deliver the primary internet connection. |    
 | **Software & OS** |   
+| Server Operating System | AlmaLinux OS (RHEL derivative) | Provides a stable, secure, and robust foundation for all network services and custom configurations on the ThinkCentre. |
+| Firewall / Packet Filtering | `nftables` / `firewalld` | Implemented on the AlmaLinux server to enforce granular firewall rules, segment network traffic, and provide Network Address Translation (NAT). |
+| DHCP Server | `dnsmasq` or `isc-dhcp-server` | Configured on the Linux server to manage and assign IP addresses to all devices within the network. |
+| DNS / Ad-blocking | AdGuard Home | Deployed as the network's primary DNS resolver, enabling network-wide ad-blocking, tracker filtering, and enhanced privacy. |
+| Virtual Private Network (VPN)| WireGuard | Set up on the server to provide secure, encrypted remote access to the home network for administration and secure Browse. |
+| Remote Management | SSH (Secure Shell) | Utilized for secure command-line remote administration and management of the AlmaLinux server. |
+
 
     
     
