@@ -38,5 +38,14 @@ This section outlines the key hardware and software components leveraged in the 
 
 ## Project Implementation & Objective Achievement
 
+### **1. Objective: Establish a Robust Linux-Based Router and Firewall**
+
+*Goal: To establish a central, high-performance, and secure routing and firewall solution using a dedicated Linux server, providing granular control over network traffic.*
+
+#### **Physical Installation: 2.5 Gigabit Network Adapter**
+
+The TP-Link TX201 2.5 Gigabit PCIe Network Adapter was physically installed into an available PCIe slot on the Lenovo ThinkCentre M71e. This critical hardware upgrade enables multi-gigabit connectivity, essential for both the WAN (Internet) interface and future high-speed internal network segments.
+
+
     
     
