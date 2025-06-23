@@ -13,11 +13,12 @@ what is being done and implemented:<br>
   - Network speed is being upgraded with 2.5 Gigabit Ethernet for faster internet and internal data transfers.
   - All network components, configurations, and security measures are being thoroughly documented.
 
-  <h2>Hardware Used</h2>
+  <h2>💻 Technologies Used 🌐</h2>
 
-| Component Type | Specific Model |
-|---|---|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| Component Type | Specific Model | Role in Project |
+|---|---|---|
+| **Hardware** |
+| Main Server | Lenovo ThinkCentre M71e SFF PC (Intel Core i5-2400, 8 GB RAM) | Serves as the central router and firewall; hosts all primary network services (DHCP, DNS, VPN). |
+| Network Interface Card (NIC) | TP-Link TX201 2.5 Gigabit PCIe Network Adapter | Provides high-speed 2.5 Gigabit Ethernet connectivity for the WAN/LAN connection on the server. |
     
     
