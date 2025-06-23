@@ -21,6 +21,7 @@ what is being done and implemented:<br>
 | Main Server | Lenovo ThinkCentre M71e SFF PC (Intel Core i5-2400, 8 GB RAM) | Serves as the central router and firewall; hosts all primary network services (DHCP, DNS, VPN). |
 | Network Interface Card (NIC) | TP-Link TX201 2.5 Gigabit PCIe Network Adapter | Provides high-speed 2.5 Gigabit Ethernet connectivity for the WAN/LAN connection on the server. | 
 | Wireless Access Point | ASUS RT-AC68U Wireless Router | Reconfigured to operate in Access Point (AP) mode, providing Wi-Fi connectivity (2.4 GHz & 5 GHz) for all wireless clients. |
-| Internet Modem | Technicolor TC4350 | Interfaces with the Internet Service Provider (ISP) to deliver the primary internet connection. |                                                                            |
+| Internet Modem | Technicolor TC4350 DOCSIS 3.0 Cable Modem | Interfaces with the Internet Service Provider (ISP) to deliver the primary internet connection. |                  
+
     
     
