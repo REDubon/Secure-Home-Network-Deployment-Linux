@@ -12,5 +12,7 @@ what is being done and implemented:<br>
   - Network speed is being upgraded with 2.5 Gigabit Ethernet for faster internet and internal data transfers.
   - All network components, configurations, and security measures are being thoroughly documented.
 
+  <h2>Hardware Used</h2>
+
     
     
