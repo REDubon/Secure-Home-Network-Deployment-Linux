@@ -2,7 +2,7 @@
 
 <h2>Project Overview</h2>
 This project involves setting up and configuring a robust home network, moving from a standard consumer-grade router to a custom-built, server-centric system.
-
+<br />
 What is being done and implemented:
 
   - A dedicated Rhel derivative Linux server is being set up to act as the central router and firewall for the entire home network.
