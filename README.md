@@ -50,7 +50,7 @@ The TP-Link TX201 2.5 Gigabit PCIe Network Adapter was physically installed into
 
 #### **Preparation of OS Installation Media**
 
-The AlmaLinux OS installation media was prepared by burning the official ISO to a USB drive using Rufus. This bootable USB drive will be used to install the operating system on the ThinkCentre.
+The AlmaLinux OS installation media was prepared by burning the official ISO to a USB drive using balenaEtcher. This bootable USB drive will be used to install the operating system on the ThinkCentre.
 
 #### **AlmaLinux Operating System Installation**
 
