@@ -60,7 +60,7 @@ The AlmaLinux OS installation media was prepared by burning the official ISO to 
     Key Configurations Documented
 
    -   Remote Wake-up: Configured "Wake from PCI Device" and "Wake on LAN" settings to Enabled to allow for remote power-on via the network
-   -   Power Failure Recovery: Set the "AC Power Loss" or "Power On After AC Loss" option to "Power Off" / "Stay Off" to prevent the system from automatically powering on after a power outage, ensuring a controlled restart.
+   -   Power Failure Recovery: Enabled the "Power On After AC Loss" option so the system power on automatically after a power outage in order to restore network connectivity.
    -   Keyboardless Operation: Enabled the "Keyboardless Operation" setting to allow the server to boot successfully without a keyboard attached. This is essential for a headless server setup.
    -   Virtualization Technology (Intel VT-x): Ensured Intel VT-x was enabled for future flexibility with virtualization technologies.
 
